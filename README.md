@@ -1,16 +1,31 @@
-# invoice_generator_app
+# Invoice Generator
 
-A new Flutter project.
+![Status](https://img.shields.io/badge/status-development-green)
+[![Release](https://img.shields.io/badge/release-1.0.0-blue)](https://github.com/vaibhavchoursiya/Invoice-Generator/releases/tag/v.1.0.0)
+![Made](https://img.shields.io/badge/made%20in-india-orange)
+[![X](https://img.shields.io/badge/x-vaibhavsoc-black)](https://x.com/vaibhavsoc)
 
-## Getting Started
+<p align="center">
+    <img src="assets/app-icon.png" alt="Icon"  width= 250 height= 250/>
+</p>
 
-This project is a starting point for a Flutter application.
+**Invoice Generator** is a desktop application that let you generate invoice for transcation.
+you can generate invoice and download its pdf version in one-click.
 
-A few resources to get you started if this is your first Flutter project:
+## Download
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **[Stable Release](https://github.com/vaibhavchoursiya/Invoice-Generator/releases/tag/v.1.0.0)**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- appimage for all linux version
+- have different section for each company.
+- add , delete and update each Invoice item.
+- add logo for company.
+- generate pdf in on-click.
+
+## Screenshots
+
+![home screen wt](assets/screenshot/home_screen_wo.png)
+![invoice items table](assets/screenshot/home_invoice_items.png)
+![pdf screenshot](assets/screenshot/pdf_screenshot.png)
