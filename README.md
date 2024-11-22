@@ -9,7 +9,7 @@
     <img src="assets/app-icon.png" alt="Icon"  width= 250 height= 250/>
 </p>
 
-**Invoice Generator** is a desktop application that let you generate invoice for transcation.
+**Invoice Generator** is a desktop application that let you generate invoice for transaction.
 you can generate invoice and download its pdf version in one-click.
 
 ## Download
